@@ -46,6 +46,11 @@
 
 ## making sense in english
 
+> \* - Convolution.  
+> 埋め尽くしゆく響きは、孤独な声、  
+> \* - Convolution.  
+> 上辺だけ見てる、幻ばかり見せられている。
+
 ## previous notes
 
 ```
