@@ -2,8 +2,8 @@
 
 |        |     |
 | ------ | --- |
-| Artist |     |
-| Title  |     |
+| Artist |  Camellia (かめりあ)   |
+| Title  | *(Convolution)    |
 | Album  |     |
 
 ## original (Japanese)
