@@ -43,6 +43,7 @@ I'm your friendly ghost next door
 if I could be your first and last,
 the one that gets to stay by your side
 like hearing your voice, like holding your hands forever
+
 あなたがまた一つ大人になる度に
 捨ててしまう無邪気さが好きだったよ
 恥ずかしくて言えないけど
