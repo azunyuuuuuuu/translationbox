@@ -51,17 +51,18 @@
 
 ## making sense in english
 
+> \* - Convolution. \
+> <ruby>埋<rt>う</ruby>
+> め
+> <ruby>尽<rt>つ</ruby>
+> くしゆく
+> <ruby>響<rt>ひび</ruby>
+> きは
+> <ruby>孤独<rt>こどく</ruby>
+> な
+> <ruby>声<rt>こえ</ruby>、\
 > \* - Convolution.  
 
-already in english
-
-> <ruby>埋め<rt>うめ</ruby> <ruby>尽くしゆく<rt>つくしゆく</ruby> 響き<rt>ひびき</rt> は、孤独な声、
-> `うめ　つくし　ゆく　ひびき　は、こどく　な　こえ、`
-
-
-> \* - Convolution.  
-
-duh.
 
 > 上辺だけ見てる、幻ばかり見せられている。  
 > `うわべ　だけ　みてる、まぼろし　ばかり　みせられている。`
