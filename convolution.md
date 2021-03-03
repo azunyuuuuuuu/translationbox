@@ -32,5 +32,3 @@
 > 見えない台詞が、雨雲ばかり増やす。  
 > * - Convolution.  
 > 掛け合わせた夢、未だ見続けている。 
-> 
-> Convolution:You(i)*Me(I)
