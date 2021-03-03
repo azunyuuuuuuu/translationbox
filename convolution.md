@@ -1,3 +1,8 @@
+- [meta](#meta)
+- [original (Japanese)](#original-japanese)
+- [making sense in english](#making-sense-in-english)
+- [previous notes](#previous-notes)
+
 ## meta
 
 |        |                                             |
