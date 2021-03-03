@@ -69,15 +69,17 @@
 >> ばかり, merely  
 >> 見せられている, showing  
 
-落ち先の無い涙が、枯れた海の上、エラーだけ吐いてる。 6) the missing tears, surface of a drying ocean, lying because of an error
-落ち, omission, final result /
-先, previous, tip, head, future /  
-無い, nonexistent, unowned /
-涙, tears /
-枯, to mature, to wither /
-海, sea, ocean, /
-上, above, top /
-吐, to breathe, to tell a lie
+> 落ち先の無い涙が、枯れた海の上、エラーだけ吐いてる。
+>> the missing tears, surface of a drying ocean, lying because of an error
+>
+>> 落ち, omission, final result  
+>> 先, previous, tip, head, future  
+>> 無い, nonexistent, unowned  
+>> 涙, tears  
+>> 枯, to mature, to wither  
+>> 海, sea, ocean,  
+>> 上, above, top  
+>> 吐, to breathe, to tell a lie  
 
 沈む轟音に濡れて、アスファルトの上に、風がただ休んでいる。 7) the sinking sound gets wet, the wind above the asphalt pauses.
 沈, sink, go down, feel depressed /
