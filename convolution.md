@@ -47,12 +47,21 @@
 ## making sense in english
 
 > \* - Convolution.  
+
+already in english
+
 > 埋め尽くしゆく響きは、孤独な声、  
 > `うめ　つくし　ゆく　ひびき　は、こどく　な　こえ、`
->
+
+
 > \* - Convolution.  
+
+duh.
+
 > 上辺だけ見てる、幻ばかり見せられている。  
 > `うわべ　だけ　みてる、まぼろし　ばかり　みせられている。`
+
+
 
 ## previous notes
 
