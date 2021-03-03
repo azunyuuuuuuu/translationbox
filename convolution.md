@@ -51,7 +51,8 @@
 
 ## making sense in english
 
-> \* - Convolution. \
+> \* - Convolution. 
+> 
 > <ruby>埋<rt>う</ruby>
 > め
 > <ruby>尽<rt>つ</ruby>
@@ -60,12 +61,19 @@
 > きは
 > <ruby>孤独<rt>こどく</ruby>
 > な
-> <ruby>声<rt>こえ</ruby>、\
-> \* - Convolution.  
+> <ruby>声<rt>こえ</ruby>、
+> 
+> \* - Convolution. 
+> 
+> <ruby>上辺<rt>うわべ</ruby>
+> だけ
+> <ruby>見<rt>み</ruby>
+> てる、
+> <ruby>幻<rt>まぼろし</ruby>
+> ばかり
+> <ruby>見<rt>み</ruby>
+> せられている。  
 
-
-> 上辺だけ見てる、幻ばかり見せられている。  
-> `うわべ　だけ　みてる、まぼろし　ばかり　みせられている。`
 
 
 
