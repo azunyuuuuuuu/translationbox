@@ -12,6 +12,7 @@
 ```
 I've awaken again　
 there's nothing that I remember in this empty room
+
 出口のないこの部屋で
 I reached out my transparent hands
 to where the light is
