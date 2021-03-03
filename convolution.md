@@ -61,13 +61,13 @@ continuing to drown the isolated voice
 > \* - Convolution.
 
 > 上辺だけ見てる、幻ばかり見せられている。
- 
-showing an illusion on the surface.  
-上辺, surface  
-見, see  
-幻, phantom, dream, illusion, vision  
-ばかり, merely  
-見せられている, showing  
+>> showing an illusion on the surface.  
+>
+>> 上辺, surface  
+>> 見, see  
+>> 幻, phantom, dream, illusion, vision  
+>> ばかり, merely  
+>> 見せられている, showing  
 
 落ち先の無い涙が、枯れた海の上、エラーだけ吐いてる。 6) the missing tears, surface of a drying ocean, lying because of an error
 落ち, omission, final result /
