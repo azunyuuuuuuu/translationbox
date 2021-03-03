@@ -49,14 +49,14 @@
 > \* - Convolution.
 
 > 埋め尽くしゆく響きは、孤独な声、
-
-continuing to drown the isolated voice  
-埋め, to bury  
-尽くし, all sorts of  
-ゆく, to go, to continue  
-響きは, echo, sound  
-孤独, lonely, lonesome, solitude  
-声, voice  
+>>continuing to drown the isolated voice
+>
+>>埋め, to bury  
+>>尽くし, all sorts of  
+>>ゆく, to go, to continue  
+>>響きは, echo, sound  
+>>孤独, lonely, lonesome, solitude  
+>>声, voice  
 
 > \* - Convolution.
 
