@@ -1,10 +1,11 @@
 ## meta
 
-|        |     |
-| ------ | --- |
-| Artist |  Camellia (かめりあ)   |
-| Title  | *(Convolution)    |
-| Album  |     |
+|        |                     |
+| ------ | ------------------- |
+| Artist | Camellia (かめりあ) |
+| Title  | \*(Convolution)     |
+| Album  | mikUbiquity         |
+| Album  | mikUbiquity         |
 
 ## original (Japanese)
 
