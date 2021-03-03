@@ -55,7 +55,7 @@
 
 already in english
 
-> <ruby>埋め<rt>asd</rt>尽くしゆく響きは、孤独な声、</ruby>
+> <ruby>埋め<rt>うめ</rt>尽くしゆく響きは、孤独な声、</ruby>
 > `うめ　つくし　ゆく　ひびき　は、こどく　な　こえ、`
 
 
