@@ -46,9 +46,11 @@
 
 ## making sense in english
 
-1. - - Convolution.
+1. \* - Convolution.
 
-埋め尽くしゆく響きは、孤独な声、 2) continuing to drown the isolated voice
+埋め尽くしゆく響きは、孤独な声、
+
+2. continuing to drown the isolated voice
 埋め, to bury /
 尽くし, all sorts of /
 ゆく, to go, to continue /
