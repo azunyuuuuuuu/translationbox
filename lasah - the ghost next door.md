@@ -37,7 +37,8 @@ like watching tv, like taking a nap together
 (hello, hello, is someone there)
 would you wanna come play with me?
 (hello, hello, can I come in)
-おかえりなさい、また
+おかえりなさい、またashita
+
 I'm your friendly ghost next door
 if I could be your first and last,
 the one that gets to stay by your side
