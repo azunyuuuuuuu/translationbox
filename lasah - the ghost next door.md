@@ -7,7 +7,7 @@
 | Album  | デッドエンド・アパートメント                |
 | Sample | https://www.youtube.com/watch?v=LJE37VZt_VQ |
 
-## original (japanese)
+## original (Japanese)
 
 ```
 I've awaken again　
