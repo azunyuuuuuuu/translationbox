@@ -5,7 +5,7 @@
 | Artist | Camellia (かめりあ) |
 | Title  | \*(Convolution)     |
 | Album  | mikUbiquity         |
-| Album  | mikUbiquity         |
+| Sample  |          |
 
 ## original (Japanese)
 
