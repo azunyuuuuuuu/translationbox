@@ -19,13 +19,16 @@ to where the light is
 would you wanna be friends with me?
 (hello, hello, can I come in)
 はじめまして、こんにちは
+
 I'm your friendly ghost next door
 you were the one, my first and last
 that always made my wishes come true
 like watching tv, like taking a nap together
+
 あなたが私に気付いてくれたから
 聴こえない、触れない世界だけど、
 今日はとても楽しかったよ
+
 制服のスカーフと鳴り止まないサイレン音
 誰かが私を呼んでいる　はやくお家に帰らなきゃ
 真っ白な花が枯れた頃、迷い込んだ古びたアパート
