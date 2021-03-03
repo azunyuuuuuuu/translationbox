@@ -1,6 +1,6 @@
-> * - Convolution.  
+> \* - Convolution.  
 > 埋め尽くしゆく響きは、孤独な声、  
-> * - Convolution.  
+> \* - Convolution.  
 > 上辺だけ見てる、幻ばかり見せられている。 
 > 
 > 落ち先の無い涙が、枯れた海の上、エラーだけ吐いてる。  
@@ -10,9 +10,9 @@
 > ウェーブレット変換に何も聞こえやしない。  
 > 誰もいない、 
 > 
-> * - Convolution.  
+> \* - Convolution.  
 > 合わない焦点は、畳み込んでしまって、  
-> * - Convolution. 
+> \* - Convolution. 
 > いつだって理想、歪（ひず）んだ現実は無視してる。 
 > 
 > 濛々たるエコーが、この世界の中でずっと、響いている。  
@@ -23,12 +23,12 @@
 > 君の耳だって何も聞こえやしない。  
 > キャンセルしてる、 
 > 
-> * - Convolution.  
+> \* - Convolution.  
 > 埋め尽くしゆく響きは、孤独な声、  
-> * - Convolution.  
+> \* - Convolution.  
 > 上辺だけ見てる、幻ばかり見せられている… 
 > 
-> * - Convolution.  
+> \* - Convolution.  
 > 見えない台詞が、雨雲ばかり増やす。  
-> * - Convolution.  
+> \* - Convolution.  
 > 掛け合わせた夢、未だ見続けている。 
