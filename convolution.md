@@ -12,19 +12,19 @@
 \* - Convolution.  
 埋め尽くしゆく響きは、孤独な声、  
 \* - Convolution.  
-上辺だけ見てる、幻ばかり見せられている。  
+上辺だけ見てる、幻ばかり見せられている。
 
 落ち先の無い涙が、枯れた海の上、エラーだけ吐いてる。  
 沈む轟音に濡れて、アスファルトの上に、風がただ休んでい  
 フーリエ変換は何も聞いていない。  
 ちょうど君たちと同じ。  
 ウェーブレット変換に何も聞こえやしない。  
-誰もいない、  
+誰もいない、
 
 \* - Convolution.  
 合わない焦点は、畳み込んでしまって、  
 \* - Convolution.  
-いつだって理想、歪（ひず）んだ現実は無視してる。  
+いつだって理想、歪（ひず）んだ現実は無視してる。
 
 濛々たるエコーが、この世界の中でずっと、響いている。  
 理解できないコードは、デコンポリューションされて、  
@@ -32,54 +32,71 @@
 君の耳だって何も聞いていない。  
 消しきれない感情も、  
 君の耳だって何も聞こえやしない。  
-キャンセルしてる、  
+キャンセルしてる、
 
 \* - Convolution.  
 埋め尽くしゆく響きは、孤独な声、  
 \* - Convolution.  
-上辺だけ見てる、幻ばかり見せられている…  
+上辺だけ見てる、幻ばかり見せられている…
 
 \* - Convolution.  
 見えない台詞が、雨雲ばかり増やす。  
 \* - Convolution.  
-掛け合わせた夢、未だ見続けている。  
+掛け合わせた夢、未だ見続けている。
 
 ## making sense in english
 
 > \* - Convolution.
 
+|         |                                        |
+| ------- | -------------------------------------- |
+| orig.   | 埋め尽くしゆく響きは、孤独な声、       |
+| transl. | continuing to drown the isolated voice |
+
+| word   | meaning                    |
+| ------ | -------------------------- |
+| 埋め   | to bury                    |
+| 尽くし | all sorts of               |
+| ゆく   | to go, to continue         |
+| 響きは | echo, sound                |
+| 孤独   | lonely, lonesome, solitude |
+| 声     | voice                      |
+
 > 埋め尽くしゆく響きは、孤独な声、
->>continuing to drown the isolated voice
 >
->>埋め, to bury  
->>尽くし, all sorts of  
->>ゆく, to go, to continue  
->>響きは, echo, sound  
->>孤独, lonely, lonesome, solitude  
->>声, voice  
+> > continuing to drown the isolated voice
+>
+> > 埋め, to bury  
+> > 尽くし, all sorts of  
+> > ゆく, to go, to continue  
+> > 響きは, echo, sound  
+> > 孤独, lonely, lonesome, solitude  
+> > 声, voice
 
 > \* - Convolution.
 
 > 上辺だけ見てる、幻ばかり見せられている。
->> showing an illusion on the surface.  
 >
->> 上辺, surface  
->> 見, see  
->> 幻, phantom, dream, illusion, vision  
->> ばかり, merely  
->> 見せられている, showing  
+> > showing an illusion on the surface.
+>
+> > 上辺, surface  
+> > 見, see  
+> > 幻, phantom, dream, illusion, vision  
+> > ばかり, merely  
+> > 見せられている, showing
 
 > 落ち先の無い涙が、枯れた海の上、エラーだけ吐いてる。
->> the missing tears, surface of a drying ocean, lying because of an error
 >
->> 落ち, omission, final result  
->> 先, previous, tip, head, future  
->> 無い, nonexistent, unowned  
->> 涙, tears  
->> 枯, to mature, to wither  
->> 海, sea, ocean,  
->> 上, above, top  
->> 吐, to breathe, to tell a lie  
+> > the missing tears, surface of a drying ocean, lying because of an error
+>
+> > 落ち, omission, final result  
+> > 先, previous, tip, head, future  
+> > 無い, nonexistent, unowned  
+> > 涙, tears  
+> > 枯, to mature, to wither  
+> > 海, sea, ocean,  
+> > 上, above, top  
+> > 吐, to breathe, to tell a lie
 
 沈む轟音に濡れて、アスファルトの上に、風がただ休んでいる。 7) the sinking sound gets wet, the wind above the asphalt pauses.
 沈, sink, go down, feel depressed /
