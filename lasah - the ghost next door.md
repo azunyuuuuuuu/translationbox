@@ -33,6 +33,7 @@ like watching tv, like taking a nap together
 誰かが私を呼んでいる　はやくお家に帰らなきゃ
 真っ白な花が枯れた頃、迷い込んだ古びたアパート
 （もうすぐ三年だってさ）
+
 (hello, hello, is someone there)
 would you wanna come play with me?
 (hello, hello, can I come in)
