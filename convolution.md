@@ -58,7 +58,7 @@
 > <ruby>尽<rt>つ</ruby>
 > くしゆく
 > <ruby>響<rt>ひび</ruby>
-> きは
+> きは、
 > <ruby>孤独<rt>こどく</ruby>
 > な
 > <ruby>声<rt>こえ</ruby>、
