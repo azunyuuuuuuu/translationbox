@@ -47,12 +47,15 @@ like hearing your voice, like holding your hands forever
 あなたがまた一つ大人になる度に
 捨ててしまう無邪気さが好きだったよ
 恥ずかしくて言えないけど
+
 また髪が伸びたね
 段ボールが増えたね
 もうすぐお別れが来るんだね
+
 you were the one, my first and last
 that always made my wishes come true
 like watching tv, like taking a nap together
+
 あなたが私に気付いてくれたから
 聞こえない、触れない世界だけど、少しだって
 寂しくなかったんだよ
