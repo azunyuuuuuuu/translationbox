@@ -46,11 +46,11 @@
 
 ## making sense in english
 
-1. \* - Convolution.
+### \* - Convolution.
 
-埋め尽くしゆく響きは、孤独な声、
+### 埋め尽くしゆく響きは、孤独な声、
 
-2. continuing to drown the isolated voice
+continuing to drown the isolated voice
 埋め, to bury /
 尽くし, all sorts of /
 ゆく, to go, to continue /
@@ -58,7 +58,7 @@
 孤独, lonely, lonesome, solitude /
 声, voice
 
-3. - - Convolution.
+### \* - Convolution.
 
 上辺だけ見てる、幻ばかり見せられている。 4) showing an illusion on the surface.
 上辺, surface /
