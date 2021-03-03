@@ -9,6 +9,8 @@
 
 ## original (Japanese)
 
+Source: https://www.juzi0.com/juzi/songs/details/2715292/1
+
 ```
 I've awaken again　
 there's nothing that I remember in this empty room
@@ -39,7 +41,7 @@ like watching tv, like taking a nap together
 (hello, hello, is someone there)
 would you wanna come play with me?
 (hello, hello, can I come in)
-おかえりなさい、またashita
+おかえりなさい、また
 
 I'm your friendly ghost next door
 if I could be your first and last,
