@@ -46,7 +46,7 @@
 
 ## making sense in english
 
-> \* - Convolution.
+1. \* - Convolution.
 
 |         |                                        |
 | ------- | -------------------------------------- |
