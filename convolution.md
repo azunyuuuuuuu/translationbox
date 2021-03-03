@@ -46,25 +46,27 @@
 
 ## making sense in english
 
-### \* - Convolution.
+> \* - Convolution.
 
-### 埋め尽くしゆく響きは、孤独な声、
+> 埋め尽くしゆく響きは、孤独な声、
 
-continuing to drown the isolated voice
-埋め, to bury /
-尽くし, all sorts of /
-ゆく, to go, to continue /
-響きは, echo, sound /
-孤独, lonely, lonesome, solitude /
-声, voice
+continuing to drown the isolated voice  
+埋め, to bury  
+尽くし, all sorts of  
+ゆく, to go, to continue  
+響きは, echo, sound  
+孤独, lonely, lonesome, solitude  
+声, voice  
 
-### \* - Convolution.
+> \* - Convolution.
 
-上辺だけ見てる、幻ばかり見せられている。 4) showing an illusion on the surface.
-上辺, surface /
-見, see /
-幻, phantom, dream, illusion, vision /
-ばかり, merely /
+> 上辺だけ見てる、幻ばかり見せられている。
+ 
+showing an illusion on the surface.
+上辺, surface 
+見, see 
+幻, phantom, dream, illusion, vision 
+ばかり, merely 
 見せられている, showing
 
 落ち先の無い涙が、枯れた海の上、エラーだけ吐いてる。 6) the missing tears, surface of a drying ocean, lying because of an error
