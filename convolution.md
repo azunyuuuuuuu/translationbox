@@ -52,7 +52,7 @@
 >
 > \* - Convolution.  
 > 上辺だけ見てる、幻ばかり見せられている。
-> >
+> >　
 
 ## previous notes
 
