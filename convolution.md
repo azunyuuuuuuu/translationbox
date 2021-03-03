@@ -44,7 +44,7 @@
 \* - Convolution.  
 掛け合わせた夢、未だ見続けている。
 
-## making sense
+## making sense in english
 
 1. - - Convolution.
 
