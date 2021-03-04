@@ -4,5 +4,5 @@
 | ------ |- |
 | Artist |Moe Shop, TORIENA |
 | Title  |Notice |
-| Album  | |
+| Album  |Moe Moe |
 | Sample | |
