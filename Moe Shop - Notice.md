@@ -7,7 +7,7 @@
 | Album  | Moe Moe                                     |
 | Sample | https://www.youtube.com/watch?v=v1qNu8cklVE |
 
-## original (Japanese)
+## original (japanese)
 
 ```
 通信交信エラーリトライ
