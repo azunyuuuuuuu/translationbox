@@ -7,7 +7,7 @@
 | Album  | デッドエンド・アパートメント                |
 | Sample | https://www.youtube.com/watch?v=LJE37VZt_VQ |
 
-## original (Japanese)
+## original (japanese and english)
 
 Source: https://www.juzi0.com/juzi/songs/details/2715292/1
 
