@@ -12,7 +12,7 @@
 | Album  | mikUbiquity                                 |
 | Sample | https://www.youtube.com/watch?v=WtGkRXUhsdo |
 
-## original (Japanese)
+## original (japanese)
 
 ```
 * - Convolution.
